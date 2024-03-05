@@ -1,6 +1,6 @@
 title: Bo Yoon
 #logo: /assets/img/logo.png
 #description: Data Scientist/Data Analyst
-#show_downloads: true
+show_downloads: true
 #google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal
