@@ -5,8 +5,8 @@
 #### Data Visualization: Tableau, Matplotlib, ggplot2
 
 ## Education
-- M.S., Business Analytics	| Carnegie Mellon University (May 2024)			        		
-- B.A., Political Science| University of California Berkeley 
+- M.S. Business Analytics	| Carnegie Mellon University (May 2024)			        		
+- B.A. Political Science| University of California Berkeley 
 
 ## Work Experience
 **Data Scientist @ Freelance (_October 2023 - Present_)**
