@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Programming Languages: Python, SQL, R
-#### Technical Expertise: AI Integration, AI API, Pytorch, Tensorflow, Scikit-learn, Pandas
+#### Technical Expertise: AI Integration, AI API, Pytorch, Tensorflow, Scikit-learn, Pandas, LangChain
 #### Data Visualization: Tableau, Matplotlib, ggplot2
 
 ## Education
@@ -14,7 +14,7 @@
 - Streamlined the integration of ChatGPT-turbo4 and Llama2 AI with client-provided large textual datasets, enhancing analysis and data interpretation processes.
 - Applied Natural Language Processing (NLP) techniques for comprehensive analysis and interpretation of textual data, enabling effective understanding of user behavior and valuable insights extraction.
 
-**Operations Manager @ Fancy Dream USA INC (_March 2022 - Present_)**
+**Operations Manager @ Fancy Dream USA INC (_March 2022 - May 2024_)**
 - Designed a comprehensive **SQL** customer database, integrated with order and sales databases.
 - Utilized **Tableau** to transform intricate data into actionable insights, driving strategic planning and business growth through sales and analytical reports.
 - Led a team, employing data driven strategies for informed decision making, enhancing operational efficiency.
@@ -22,6 +22,9 @@
 
 
 ## Projects
+### [RAG AGENT Reading URL's & PDFs to answer questions]
+Created an RAG agent that scrapes documents using FireCrawl API to divide data into segments for the agent or utilize Llamaindex for extracting content from PDF files. Implemented a local Llama3 model to analyze the extracted data and incorporated Tavily API to search the web for up-to-date information if the retrieved documents are not pertinent to the query.”
+
 ### [User Behavior Analysis Using NLP and GPT-4 Turbo](https://github.com/pepeyoon/Datasets-AI-integration)
 
 Developted a project analyzing app user behavior using a large dataset. Through data cleaning with NLP techniques and employing GPT-4 Turbo for better AI responses, we gained valuable insights. The findings supported the development of a user-centric approach for app improvements. Regular project progress was shared on GitHub. Key tools used included Python, NLP, GPT-4 Turbo API, and pandas.
