@@ -22,8 +22,8 @@
 
 
 ## Projects
-### [RAG AGENT Reading URL's & PDFs to answer questions]
-Created an RAG agent that scrapes documents using FireCrawl API to divide data into segments for the agent or utilize Llamaindex for extracting content from PDF files. Implemented a local Llama3 model to analyze the extracted data and incorporated Tavily API to search the web for up-to-date information if the retrieved documents are not pertinent to the query.”
+### [RAG AGENT Reading URL's & PDFs to answer questions](https://github.com/pepeyoon/RAG-agent/blob/main/RagAgentProject.ipynb)
+Created an RAG agent that scrapes documents using FireCrawl API to divide data into segments for the agent or utilize Llamaindex for extracting content from PDF files. Implemented a local Llama3 model to analyze the extracted data and incorporated Tavily API to search the web for up-to-date information if the retrieved documents are not pertinent to the query.
 
 ### [User Behavior Analysis Using NLP and GPT-4 Turbo](https://github.com/pepeyoon/Datasets-AI-integration)
 
